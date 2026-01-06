@@ -9,14 +9,16 @@
 ║   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝ ╚═════╝                            ║
 ║                                                                           ║
 ║   SYSTEM & SECURITY ENGINEER                                             ║
-║   > Low-Level Systems | Kernel Development | Cybersecurity               ║
+║   Low-Level Systems | Kernel Development | Cybersecurity                 ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
+<br/>
+
 <div align="center">
 
-### 📍 CURRENT FOCUS
+### CURRENT FOCUS
 
 ```rust
 impl Engineer {
@@ -32,15 +34,15 @@ impl Engineer {
 
 </div>
 
----
+<br/>
 
-### 🛠️ TECHNICAL STACK
+## TECHNICAL STACK
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Systems & Low-Level**
+#### Systems & Low-Level
 ```c
 // Core Languages
 - C / C++
@@ -49,7 +51,9 @@ impl Engineer {
 - Haskell
 ```
 
-**Security & Analysis**
+<br/>
+
+#### Security & Analysis
 ```bash
 # Tools & Platforms
 → Kali Linux
@@ -61,7 +65,7 @@ impl Engineer {
 </td>
 <td width="50%" valign="top">
 
-**Application Development**
+#### Application Development
 ```javascript
 // Frameworks & Libraries
 - React / Next.js
@@ -70,7 +74,9 @@ impl Engineer {
 - Tokio (Rust async)
 ```
 
-**Infrastructure**
+<br/>
+
+#### Infrastructure
 ```yaml
 DevOps:
   - Docker
@@ -83,9 +89,9 @@ DevOps:
 </tr>
 </table>
 
----
+<br/>
 
-### 💼 EXPERTISE AREAS
+## EXPERTISE AREAS
 
 <div align="center">
 
@@ -98,6 +104,8 @@ DevOps:
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
@@ -107,6 +115,8 @@ DevOps:
 [LOCATION: Epitech Benin]
 [CONTACT: kenzo.hounkpe@epitech.eu]
 ```
+
+<br/>
 
 **Building robust systems. Securing digital assets. Exploring kernel space.**
 
