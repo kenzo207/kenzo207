@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b3c7f7,100:00c6ff&height=250&section=header&text=KENZO%20HOUNKPE&fontSize=80&animation=fadeIn&fontAlignY=35&desc=System%20%26%20Security%20Engineer&descAlignY=55&descAlign=50" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=KENZO%20HOUNKPE&fontSize=80&fontAlignY=35&desc=System%20%26%20Security%20Engineer&descAlignY=55&descAlign=50" alt="header" width="100%" />
 
   <h3 align="center">
     <a href="https://git.io/typing-svg">
@@ -89,7 +89,7 @@
 <div align="center">
   <h2>🐍 Contributions</h2>
   <br/>
-  <img src="https://github.com/kenzo207/kenzo207/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/kenzo207/kenzo207/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 </div>
 
 <br/>
