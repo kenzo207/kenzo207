@@ -1,91 +1,99 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=3393E8&center=true&vCenter=true&width=700&lines=Kenzo+Hounkpe;System+%26+Security+Engineer;C+%7C+Rust+%7C+ASM+%7C+Haskell;Fullstack+%26+Mobile+Developer" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b3c7f7,100:00c6ff&height=250&section=header&text=KENZO%20HOUNKPE&fontSize=80&animation=fadeIn&fontAlignY=35&desc=System%20%26%20Security%20Engineer&descAlignY=55&descAlign=50" alt="header" width="100%" />
+
+  <h3 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=23D5AB&center=true&vCenter=true&width=435&lines=Building+Robust+Systems;Securing+Digital+Assets;Exploring+Kernel+Space;Crafting+User+Experiences" alt="Typing SVG" />
+    </a>
+  </h3>
+
+  <div align="center"> 
+    <a href="mailto:kenzo.hounkpe@epitech.eu">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/ton-profil">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/ton-username">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </div>
 </div>
-
-<div align="center">
-  <a href="mailto:kenzo.hounkpe@epitech.eu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/ton-profil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ton-username">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<br />
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Person/Technologist.png" alt="Technologist" width="25" /> 
-        About Me
-      </h3>
-      <p>
-        I am an <strong>Expertise Informatique Student</strong> at <strong>Epitech Benin</strong> with a deep interest in low-level systems and cybersecurity. My versatility allows me to navigate from <strong>Assembly</strong> code to <strong>React</strong> interfaces effortlessly.
-      </p>
-      <ul>
-        <li>
-           <img src="https://img.shields.io/badge/-CURRENTLY_WORKING_ON-blue?style=flat-square" height="15"> 
-           <strong>Pentesting & Advanced System Programming</strong>
-        </li>
-        <li>
-           <img src="https://img.shields.io/badge/-LEARNING-green?style=flat-square" height="15"> 
-           <strong>Malware Analysis & Kernel Dev</strong>
-        </li>
-        <li>
-           <img src="https://img.shields.io/badge/-FOCUS-red?style=flat-square" height="15"> 
-           <strong>Rust, Haskell & Clean Architecture</strong>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
-<h3>
-  <img src="https://img.icons8.com/ios-filled/50/000000/hammer-and-anvil.png" width="25" style="vertical-align:middle"/> 
-  Technical Arsenal
-</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h2>⚡ About Me</h2>
+        <blockquote>
+          <p>
+            I'm a <strong>System & Security Engineer</strong> passionate about the intricate dance between hardware and software. 
+            Currently diving deep into <strong>OS development</strong> and <strong>offensive security</strong>.
+          </p>
+        </blockquote>
+        <br/>
+        <p>
+           🔭 <strong>I’m currently working on</strong> <br/>
+           System programming & Penetration testing.
+        </p>
+        <p>
+           🌱 <strong>I’m currently learning</strong> <br/>
+           Kernel Internals, Malware Analysis & Advanced Rust.
+        </p>
+        <p>
+           💬 <strong>Ask me about</strong> <br/>
+           Architecture, Linux, Security & C/C++.
+        </p>
+      </td>
+      <td width="50%" valign="top">
+         <div align="center">
+           <h2>🚀 Tech Stack</h2>
+           <p>
+             <a href="https://skillicons.dev">
+               <img src="https://skillicons.dev/icons?i=c,cpp,rust,haskell,asm,python,ruby&perline=4" />
+             </a>
+             <br/>
+             <br/>
+             <a href="https://skillicons.dev">
+               <img src="https://skillicons.dev/icons?i=react,nextjs,vue,flutter,tailwind,ts,js&perline=4" />
+             </a>
+             <br/>
+             <br/>
+             <a href="https://skillicons.dev">
+               <img src="https://skillicons.dev/icons?i=linux,kali,git,docker,postgres,mysql,firebase&perline=4" />
+             </a>
+           </p>
+         </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p><strong>System & Low Level Programming</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-A24343?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
-</p>
-
-<p><strong>Web & Mobile Ecosystem</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-</p>
-
-<p><strong>Security & Tools</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reverse_Engineering-NB-FF0000?style=for-the-badge&logo=hack-the-box&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
+<br/>
 
 <div align="center">
-  <h3>
-    <img src="https://img.icons8.com/ios-filled/50/000000/activity-history.png" width="25" style="vertical-align:middle"/> 
-    Activity
-  </h3>
-  <img src="github-metrics.svg" alt="Metrics" width="100%">
+  <h2>📊 Git Statistics</h2>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenzo207&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzo207&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🐍 Contributions</h2>
+  <br/>
+  <img src="https://github.com/kenzo207/kenzo207/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b3c7f7,100:00c6ff&height=100&section=footer" width="100%" />
 </div>
