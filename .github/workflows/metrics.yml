@@ -1,2 +1,24 @@
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.34
+name: Metrics
+on:
+  # Mise à jour toutes les 24h
+  schedule: [{cron: "0 0 * * *"}]
+  # Permet de lancer manuellement
+  workflow_dispatch:
+  # Mise à jour quand tu push sur le repo
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # C'est ICI que se place ton bout de code, avec l'indentation correcte :
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.34
+        with:
+          # N'oublie pas de configurer ce secret dans les settings du repo !
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: header, activity, community, repositories, metadata
