@@ -38,15 +38,15 @@ impl Engineer {
  */
 ```
 
-<div align="center">
-  <br/>
-  <!-- Terminal Style Activity Graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kenzo207&show_icons=true&theme=transparent&hide_border=true&title_color=3382db&text_color=adadad&icon_color=3382db&hide=stars" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzo207&layout=compact&theme=transparent&hide_border=true&title_color=3382db&text_color=adadad" height="150" alt="langs" />
-</div>
+### System Activity
 
-<div align="center">
-  <br/>
-  <!-- System Process: Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/kenzo207/kenzo207/output/github-contribution-grid-snake.svg" alt="system_activity" width="100%"/>
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=kenzo207&show_icons=true&theme=transparent&hide_border=true&title_color=3382db&text_color=adadad&icon_color=3382db&hide=stars)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenzo207&layout=compact&theme=transparent&hide_border=true&title_color=3382db&text_color=adadad)
+
+<!-- 
+NOTE: The Snake Game image is commented out until the GitHub Action runs.
+Once the 'Are you sure you want to run this workflow?' is accepted in Actions tab, uncomment the line below:
+-->
+
+<!-- ![Snake](https://raw.githubusercontent.com/kenzo207/kenzo207/output/github-contribution-grid-snake.svg) -->
